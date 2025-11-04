@@ -7,6 +7,11 @@
     "directory": "dist/public"
   },
   "compatibility_date": "2025-05-08",
+  "routes": [
+    {
+              "pattern": "rg.io.vn/*"
+    }
+  ],
   "compatibility_flags": [
     "nodejs_compat"
   ],
