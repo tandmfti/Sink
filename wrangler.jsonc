@@ -9,7 +9,7 @@
   "compatibility_date": "2025-05-08",
   "routes": [
     {
-              "pattern": "rg.io.vn/*",
+              "pattern": "rg.io.vn",
               "custom_domain": true
     }
   ],
